@@ -9964,10 +9964,10 @@ p-each-series@^2.1.0:
   resolved "https://registry.yarnpkg.com/p-each-series/-/p-each-series-2.2.0.tgz#105ab0357ce72b202a8a8b94933672657b5e2a9a"
   integrity sha512-ycIL2+1V32th+8scbpTvyHNaHe02z0sjgh91XXjAk+ZeXoPN4Z46DVUnzdso0aX4KckKw0FNNFHdjZ2UsZvxiA==
 
-p-graph@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/p-graph/-/p-graph-1.1.1.tgz#9acf22ce5239afc7c08b4fd6e64b441eb171ecac"
-  integrity sha512-KdD5JEqSEbOYK5Yl4MKbHo8cNaJs+O6TW+HacoyPVau704KukYhJMhSXuC8tF332zqgB87pyAMf2FhQ54R0ugA==
+p-graph@^1.1.1, p-graph@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/p-graph/-/p-graph-1.1.2.tgz#594010591e258ebc013f275f414ef6c5bfc25d51"
+  integrity sha512-GnEEHrOMozk0hCjXBm011oYb3zpaOolxHgqL2s7Od2niGAJKyk/4FZ2VRUAgjqqqoQnZQtwkF6fjGDJkIQTjDQ==
 
 p-limit@^2.0.0, p-limit@^2.2.0:
   version "2.3.0"
