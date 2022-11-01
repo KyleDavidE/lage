@@ -30,7 +30,7 @@
     "watchpack": "1.6.1"
   },
   "dependencies": {
-    "@xmldom/xmldom": "^0.8.0",
+    "@xmldom/xmldom": "^0.8.5",
     "abort-controller": "^3.0.0",
     "backfill": "^6.1.20",
     "backfill-cache": "^5.6.1",
